@@ -8,7 +8,7 @@ module ContactManagerApp {
     constructor() {
 
     }
-    
+
     message: string = "Hello from controller";
   }
 }
