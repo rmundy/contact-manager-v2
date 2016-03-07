@@ -1,0 +1,22 @@
+{
+  "name": "contact-manager-v2",
+  "description": "\"# contact-manager-v2\"",
+  "main": "index.js",
+  "authors": [
+    "Robert Mundy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rmundy/contact-manager-v2",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.6",
+    "bootstrap": "^3.3.6"
+  }
+}
